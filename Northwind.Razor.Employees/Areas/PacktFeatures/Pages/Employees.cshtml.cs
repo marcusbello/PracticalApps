@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages; // PageModel
 using Packt.Shared; // Employee, NorthwindContext
+
 namespace PacktFeatures.Pages;
 
 public class EmployeesPageModel : PageModel
@@ -14,6 +15,6 @@ public class EmployeesPageModel : PageModel
     {
         ViewData["Title"] = "Northwind B2B - Employees";
         Employees = db.Employees.OrderBy(e => e.LastName)
-         .ThenBy(e => e.FirstName).ToArray();
+        .ThenBy(e => e.FirstName).ToArray();
     }
 }
