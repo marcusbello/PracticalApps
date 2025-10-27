@@ -12,3 +12,4 @@ C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.EntityModels.Sq
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net10.0\Northwind.Common.EntityModels.Sqlite.pdb
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net10.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net10.0\ref\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net10.0\Northwind.Common.EntityModels.Sqlite.sourcelink.json

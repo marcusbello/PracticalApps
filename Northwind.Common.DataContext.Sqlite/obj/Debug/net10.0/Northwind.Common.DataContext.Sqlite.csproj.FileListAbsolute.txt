@@ -13,3 +13,4 @@ C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.DataContext.Sql
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net10.0\refint\Northwind.Common.DataContext.Sqlite.dll
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net10.0\Northwind.Common.DataContext.Sqlite.pdb
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net10.0\ref\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net10.0\Northwind.Common.DataContext.Sqlite.sourcelink.json
