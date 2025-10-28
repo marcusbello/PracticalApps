@@ -1,14 +1,19 @@
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Swashbuckle.AspNetCore.SwaggerUI; // SubmitMethod
+using Microsoft.AspNetCore.HttpLogging; // HttpLoggingFields
 using Packt.Shared;
 using Northwind.WebApi.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
-
+// Add services to the container.
+builder.Services.AddHttpLogging(options =>
+{
+    options.LoggingFields = HttpLoggingFields.All;
+    options.RequestBodyLogLimit = 4096; // default is 32k
+    options.ResponseBodyLogLimit = 4096; // default is 32k
+});
 builder.Services.AddDbContext<NorthwindContext>();
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
-// Add services to the container.
-
 builder.Services.AddControllers(options =>
 {
     WriteLine("Default output formatters:");
@@ -53,6 +58,8 @@ if (app.Environment.IsDevelopment())
             });
     });
 }
+
+app.UseHttpLogging();
 
 app.UseHttpsRedirection();
 
