@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {}
+    "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+    "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectUniqueName": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "projectName": "Northwind.Common.EntityModels.Sqlite",
-        "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "packagesPath": "C:\\Users\\MARCUSES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\obj\\",
+        "outputPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCUSES\\AppData\\Roaming\\NuGet\\NuGet.Config"

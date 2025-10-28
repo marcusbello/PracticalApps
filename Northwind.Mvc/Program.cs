@@ -12,6 +12,14 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
 builder.Services.AddDbContext<NorthwindContext>();
+builder.Services.AddHttpClient(name: "Minimal.WebApi",
+ configureClient: options =>
+ {
+     options.BaseAddress = new Uri("https://localhost:5003/");
+     options.DefaultRequestHeaders.Accept.Add(
+        new MediaTypeWithQualityHeaderValue(
+        "application/json", 1.0));
+ });
 builder.Services.AddHttpClient(name: "Northwind.WebApi",
  configureClient: options =>
  {

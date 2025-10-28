@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DGajDKgfu+0=",
+  "dgSpecHash": "7KyVdZ51u7w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+  "projectFilePath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MARCUSES\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MARCUSES\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
@@ -35,9 +35,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+      "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+      "filePath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
       "targetGraphs": []
     }
   ]
