@@ -295,3 +295,4 @@ C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Mvc\obj\Debug\net10.0\
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Mvc\obj\Debug\net10.0\Northwind.Mvc.genruntimeconfig.cache
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Mvc\obj\Debug\net10.0\ref\Northwind.Mvc.dll
 C:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Mvc\obj\Debug\net10.0\compressed\sx6z3tdw8u-{0}-a9ccvkd1s9-a9ccvkd1s9.gz
+c:\Users\MARCUSES\Projects\csharp\PracticalApps\Northwind.Mvc\obj\Debug\net10.0\Northwind.Mvc.sourcelink.json

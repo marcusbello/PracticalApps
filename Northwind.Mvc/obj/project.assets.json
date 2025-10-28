@@ -3264,11 +3264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectUniqueName": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "projectName": "Northwind.Mvc",
-      "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "packagesPath": "C:\\Users\\MARCUSES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\obj\\",
+      "outputPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARCUSES\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3283,8 +3283,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
-              "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
+            "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
+              "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
             }
           }
         }
