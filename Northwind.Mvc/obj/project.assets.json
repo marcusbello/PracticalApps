@@ -3264,11 +3264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "projectName": "Northwind.Mvc",
-      "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "packagesPath": "C:\\Users\\MARCUSES\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\obj\\",
+      "outputPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARCUSES\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3283,8 +3283,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
-              "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
+            "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
+              "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
             }
           }
         }
@@ -3765,10 +3765,24 @@
   },
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+      "message": "Package 'Microsoft.Build.Tasks.Core' 17.14.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3q9-fxm7-j8fq",
+      "libraryId": "Microsoft.Build.Tasks.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Build.Utilities.Core' 17.14.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3q9-fxm7-j8fq",
+      "libraryId": "Microsoft.Build.Utilities.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
     }
   ]
 }

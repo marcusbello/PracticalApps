@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/Uv22TYdAs=",
+  "dgSpecHash": "Q7EtaxWZcbc=",
   "success": true,
-  "projectFilePath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MARCUSES\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MARCUSES\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.0-rc.1.25451.107.nupkg.sha512",
@@ -54,13 +54,28 @@
   ],
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1903",
       "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "message": "Package 'Microsoft.Build.Tasks.Core' 17.14.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3q9-fxm7-j8fq",
+      "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
-      "targetGraphs": []
+      "filePath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "libraryId": "Microsoft.Build.Tasks.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.Build.Utilities.Core' 17.14.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3q9-fxm7-j8fq",
+      "projectPath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\MARCUSES\\Projects\\csharp\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "libraryId": "Microsoft.Build.Utilities.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
     }
   ]
 }
